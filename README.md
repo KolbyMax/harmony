@@ -1,1 +1,1 @@
-# harmony dapp
+# harmony-app
