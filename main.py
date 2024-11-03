@@ -6,3 +6,4 @@ height = 1.80
 print("Name:", name)
 print("Age:", a)
 print("Height:", height)
+print(a)
